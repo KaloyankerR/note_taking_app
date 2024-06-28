@@ -1,0 +1,3 @@
+# Exclude CMake files from GitHub language stats
+cmake/* linguist-vendored
+CMakeLists.txt linguist-vendored
