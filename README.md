@@ -17,17 +17,17 @@ This is a simple and intuitive note-taking app built with Flutter. It allows you
 
 ## Screenshots
 
-| Home Page | Add Note |
+| Home Page (Light Mode) | Drawer (Light Mode) |
 | --- | --- |
-| ![Home Page](https://github.com/KaloyankerR/note_taking_app/assets/54742816/0254e23d-35ec-4095-91e7-64b1f3f8b4b2) | ![Add Note](https://github.com/KaloyankerR/note_taking_app/assets/54742816/1ef74722-bacd-43f8-8300-460db12ca4d2) |
+| ![Home Page](https://github.com/KaloyankerR/note_taking_app/assets/54742816/0254e23d-35ec-4095-91e7-64b1f3f8b4b2) | ![Drawer](https://github.com/KaloyankerR/note_taking_app/assets/54742816/1ef74722-bacd-43f8-8300-460db12ca4d2) |
 
-| Note List | Note Details |
+| Settings Page (Dark Mode) | Note Tile (Dark Mode) |
 | --- | --- |
-| ![Note List](https://github.com/KaloyankerR/note_taking_app/assets/54742816/fa759208-3161-4aaa-b0d9-a402a602a22f) | ![Note Details](https://github.com/KaloyankerR/note_taking_app/assets/54742816/0b34d5d7-766d-47dc-b9f1-30e96d68ef18) |
+| ![Settings Page](https://github.com/KaloyankerR/note_taking_app/assets/54742816/fa759208-3161-4aaa-b0d9-a402a602a22f) | ![Note Tile](https://github.com/KaloyankerR/note_taking_app/assets/54742816/0b34d5d7-766d-47dc-b9f1-30e96d68ef18) |
 
-| Settings (Light Mode) | Settings (Dark Mode) |
+| Update Note (Dark Mode) | Create Note (Dark Mode) |
 | --- | --- |
-| ![Settings Light](https://github.com/KaloyankerR/note_taking_app/assets/54742816/9280d953-92e8-461f-9c1a-04606af7484f) | ![Settings Dark](https://github.com/KaloyankerR/note_taking_app/assets/54742816/e297a88c-5945-4334-9b56-0f7384ee74ed) |
+| ![Update Note](https://github.com/KaloyankerR/note_taking_app/assets/54742816/9280d953-92e8-461f-9c1a-04606af7484f) | ![Create Note](https://github.com/KaloyankerR/note_taking_app/assets/54742816/e297a88c-5945-4334-9b56-0f7384ee74ed) |
 
 
 ## Installation
@@ -133,10 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any bugs, features, or enhancements.
-
-## Contact
-
-For any inquiries or feedback, you can reach me at [your email address].
-```
-
-Replace placeholders like `yourusername`, `your-repo-name`, and `[your email address]` with your actual information. Add screenshots in the "Screenshots" section to give users a visual overview of your app.
